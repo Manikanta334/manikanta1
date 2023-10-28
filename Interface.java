@@ -7,7 +7,7 @@ interface RaviTeja{
 }
 class Mani{
     void king(){
-    System.out.println("peaceful life");
+    System.out.println("peaceful");
 }
 }
 class Love extends Mani implements Naveen,RaviTeja
